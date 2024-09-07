@@ -19,7 +19,7 @@ func main() {
 	a := 10
 	b := 31
 	result := b % a
-	// izmenil fail
+	// izmenil fail ggg
 	//treeti izmena
 	fmt.Println(result)
 
